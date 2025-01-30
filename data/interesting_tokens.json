@@ -1,0 +1,132 @@
+[
+  {
+    "name": "The",
+    "address": "7o43RbMeKpxCFSMz17javTvN1gbdFTrZWmj4uXakpump",
+    "blockchain": "solana",
+    "reason": "TIER1",
+    "metrics": {
+      "priceChangePercent": 0,
+      "volumeChange": 0,
+      "liquidityChange": 0,
+      "buyVsSellRatio": 5
+    },
+    "timestamp": "2025-01-30T08:53:36.823Z"
+  },
+  {
+    "name": "Aurora",
+    "address": "EnZxSmBHPrYUk9XW4AZP5GNkLoTqHcrVYjma1HkibXFd",
+    "blockchain": "solana",
+    "reason": "TIER1",
+    "metrics": {
+      "priceChangePercent": 0,
+      "volumeChange": 0,
+      "liquidityChange": 0,
+      "buyVsSellRatio": 5
+    },
+    "timestamp": "2025-01-30T08:53:36.825Z"
+  },
+  {
+    "name": "PIKA",
+    "address": "E4kBqYrtLqZFDAGx7zoaG6VujBtQce7yaJjftxM75P3c",
+    "blockchain": "solana",
+    "reason": "TIER1",
+    "metrics": {
+      "priceChangePercent": 0,
+      "volumeChange": 0,
+      "liquidityChange": 0,
+      "buyVsSellRatio": 2
+    },
+    "timestamp": "2025-01-30T08:53:36.825Z"
+  },
+  {
+    "name": "Meet",
+    "address": "6E2TgDAuQvBAEYtWydiVQ3rL3A9ETHPBDMJaXyVipump",
+    "blockchain": "solana",
+    "reason": "TIER1",
+    "metrics": {
+      "priceChangePercent": 4.43,
+      "volumeChange": 135687.97,
+      "liquidityChange": 112477.61,
+      "buyVsSellRatio": 4
+    },
+    "timestamp": "2025-01-30T09:55:23.077Z"
+  },
+  {
+    "name": "jelly",
+    "address": "CtDz3fvQJhDRTWg72ShsmBX3zNDyzfoLQoFXsun9pump",
+    "blockchain": "solana",
+    "reason": "TIER1",
+    "metrics": {
+      "priceChangePercent": 60.39,
+      "volumeChange": 426305.04,
+      "liquidityChange": 49522.1,
+      "buyVsSellRatio": 1
+    },
+    "timestamp": "2025-01-30T12:47:37.203Z"
+  },
+  {
+    "name": "Welcome",
+    "address": "0x07D643Ab4dE137a6F90FC11B75C8C938470e3D44",
+    "blockchain": "base",
+    "reason": "TIER1",
+    "metrics": {
+      "priceChangePercent": 124,
+      "volumeChange": 50313.93,
+      "liquidityChange": 63740.03,
+      "buyVsSellRatio": 5
+    },
+    "timestamp": "2025-01-30T12:47:38.258Z"
+  },
+  {
+    "name": "Michael",
+    "address": "9K9BEXqaRasg63YhjXmHnHF9iXNrB6QwaU1iV87pump",
+    "blockchain": "solana",
+    "reason": "TIER1",
+    "metrics": {
+      "priceChangePercent": 29.46,
+      "volumeChange": 150534.14,
+      "liquidityChange": 44364.48,
+      "buyVsSellRatio": 1.5
+    },
+    "timestamp": "2025-01-30T16:06:39.161Z"
+  },
+  {
+    "name": "Autonomous",
+    "address": "0x02F22E07981af3D956169fA66404eb6DdF36152a",
+    "blockchain": "base",
+    "reason": "TIER1",
+    "metrics": {
+      "priceChangePercent": 253,
+      "volumeChange": 10970.7,
+      "liquidityChange": 11873.6,
+      "buyVsSellRatio": 5
+    },
+    "timestamp": "2025-01-30T16:06:40.221Z"
+  },
+  {
+    "name": "Harness",
+    "address": "8ETEgawrmtXtXhM7CupZGnSe7MGp3t9Jq9zfC91Ppump",
+    "blockchain": "solana",
+    "reason": "TIER1",
+    "metrics": {
+      "priceChangePercent": 0.18,
+      "volumeChange": 20531.25,
+      "liquidityChange": 38508.6,
+      "buyVsSellRatio": 3
+    },
+    "timestamp": "2025-01-30T17:12:29.208Z"
+  },
+  {
+    "name": "Vilady",
+    "address": "0xD2f3Da2198120A5E724fC61044eF7e11Ea8097bC",
+    "blockchain": "base",
+    "reason": "TIER1",
+    "metrics": {
+      "priceChangePercent": 23.63,
+      "volumeChange": 971.63,
+      "liquidityChange": 14543.84,
+      "buyVsSellRatio": 3
+    },
+    "timestamp": "2025-01-30T17:15:21.116Z"
+  }
+]
